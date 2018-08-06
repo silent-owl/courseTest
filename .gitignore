@@ -30,3 +30,4 @@
 /config/master.key
 /db/seeds.rb
 /db/testign.rb
+/app/views/layouts/mailer.text.erb
